@@ -1,0 +1,25 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: bare_conf.aux
+The style file: IEEEtran.bst
+Database file #1: IEEEabrv.bib
+Database file #2: ref2.bib
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty booktitle in bg-aggressive
+Warning--empty booktitle in bg-triggered
+Warning--empty booktitle in bg-operation
+Warning--empty booktitle in in-park2009cgra
+Warning--empty booktitle in mo-wang2015acceleration
+Warning--empty journal in in-hartenstein1996field
+Warning--empty booktitle in in-mishra2007virtualization
+Warning--empty journal in in-singh2000morphosys
+Warning--empty booktitle in re-ahn2006spatial
+Warning--empty booktitle in re-dimitroulakos2006exploring
+Warning--empty booktitle in re-guo2006pattern
+Warning--empty booktitle in re-hatanaka2007modulo
+Warning--empty journal in re-lee2003compilation
+Warning--empty booktitle in re-park2008edge
+Warning--empty booktitle in dbdi-mahlke1996compiler
+
+Done.
+(There were 15 warnings)

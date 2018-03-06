@@ -1,0 +1,9 @@
+@inproceedings{re-mei2004design,
+  title={Design methodology for a tightly coupled VLIW/reconfigurable matrix architecture: A case study},
+  author={Mei, Bingfeng and others},
+  booktitle={},
+  pages={21224},
+  year={2004},
+  organization={IEEE Computer Society}
+}
+,re-mei2004design
